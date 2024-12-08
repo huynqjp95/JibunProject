@@ -1,0 +1,23 @@
+.nav-list {
+  background-color: rgb(132, 247, 186);
+  text-align: left;
+  list-style: none;
+  padding: 1px;
+}
+.nav-list li {
+  display: inline;
+  padding: 10px;
+}
+.form-audio {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(189, 189, 189);
+}
+.active {
+  background-color: rgb(234, 132, 190);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jibun Project</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="nav-list">
+        <ul>
+          <li><a href="#">List 言葉</a></li>
+          <li><a href="listen.html">Listening</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <!-- form nhap input tu vung -->
+      <div class="input-container">
+        <form class="input-form-container">
+          <div class="input-form">
+            <label for="tuvung">Input 言葉</label>
+            <input type="text" name="tuvung" id="tuvung" />
+          </div>
+          <div class="input-form">
+            <label for="amhan">Input Âm Hán</label>
+            <input type="text" name="amhan" id="amhan" />
+          </div>
+          <div class="input-form">
+            <label for="ynghia">Input Ý nghĩa</label
+            ><input type="text" name="ynghia" id="ynghia" />
+          </div>
+          <div class="input-form">
+            <label for="vidu">Input Ví dụ</label
+            ><input type="text" name="vidu" id="vidu" />
+          </div>
+          <div>
+            <button class="submit submit-btn">Submit</button>
+          </div>
+        </form>
+        <div class="input-search">
+          <label for="search">Search</label>
+          <input type="text" name="search" id="search" />
+          <button class="submit submit-search">Submit</button>
+        </div>
+        <div class="edit">
+          <div><label>言葉:</label><input class="editTv" type="text" /></div>
+          <div><label>Âm Hán:</label><input class="editAh" type="text" /></div>
+          <div><label>Ý Nghĩa:</label><input class="editYn" type="text" /></div>
+          <div><label>Ví Dụ:</label><input class="editVd" type="text" /></div>
+          <button class="btn-edit">EDIT</button>
+        </div>
+      </div>
+      <!-- table hien thi tu vung -->
+      <div class="display-table">
+        <!-- nút điều chỉnh page cho list từ vựng -->
+        <div class="chia-page">
+          <button class="previous">&lt;</button>
+          <button class="hien-page">1</button>
+          <button class="next">&gt;</button>
+          <input type="number" id="page" />
+          <button class="page-choose">Xác nhận</button>
+          <span class="stt-vocabulary"></span>
+        </div>
+        <table>
+          <thead>
+            <th>Từ Vựng</th>
+            <th>Âm Hán</th>
+            <th>Ý Nghĩa</th>
+            <th>Ví Dụ</th>
+            <th class="rong"></th>
+          </thead>
+          <tbody class="body-table">
+            <!-- <tr>
+              <td>言葉</td>
+              <td>NGÔN DIỆP</td>
+              <td>từ vựng</td>
+              <td>きれいな言葉を使う</td>
+              <td class="delete-btn">X</td>
+            </tr> -->
+          </tbody>
+        </table>
+      </div>
+    </main>
+    <script src="javascript.js"></script>
+  </body>
+</html>
