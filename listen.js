@@ -70,7 +70,7 @@ function pickSubject() {
         script[i] = content;
         html += `
   <div class="form-audio">
-  <audio class="audio-element" src="${audioLink}${mov}"></audio>
+  <audio loop class="audio-element" src="${audioLink}${mov}"></audio>
   <input
   type="range"
   class="progressBar"
