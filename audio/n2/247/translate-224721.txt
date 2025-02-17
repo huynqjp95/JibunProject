@@ -1,0 +1,189 @@
+Phân tích 
+Câu 1:
+女: 店長の山本さんです。
+👉 Đây là anh Yamamoto, quản lý cửa hàng.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+店長 (てんちょう): Quản lý cửa hàng.
+の: Trợ từ chỉ sự sở hữu (của).
+山本さん (やまもとさん): Anh Yamamoto.
+です: Động từ là (dạng lịch sự của だ).
+Câu 2:
+こちらのお店の手作りのパン、大変人気ですが
+👉 Bánh mì thủ công của cửa hàng này rất nổi tiếng, nhưng...
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+こちら (こちら): Chỗ này, cửa hàng này.
+のお店 (のおみせ): Cửa hàng của..., cửa hàng này.
+の: Trợ từ chỉ sự sở hữu.
+手作りのパン (てづくりのぱん): Bánh mì thủ công.
+手作り (てづくり): Thủ công, làm bằng tay.
+パン (ぱん): Bánh mì.
+大変人気 (たいへんにんき): Rất nổi tiếng.
+大変 (たいへん): Rất, cực kỳ.
+人気 (にんき): Sự nổi tiếng, được ưa chuộng.
+ですが (ですが): Nhưng mà... (Dạng lịch sự của だけど).
+Câu 3:
+山本さんご自身は以前、会社員をなされていたんですよね?
+👉 Còn bản thân anh Yamamoto, trước đây anh đã từng là nhân viên công ty đúng không?
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+山本さん (やまもとさん): Anh Yamamoto.
+ご自身 (ごじしん): Bản thân (cách nói lịch sự).
+は: Trợ từ chủ đề.
+以前 (いぜん): Trước đây.
+会社員 (かいしゃいん): Nhân viên công ty.
+を: Trợ từ chỉ tân ngữ.
+なされていた (なされていた):
+なさる: Kính ngữ của する (làm).
+～ていた: Quá khứ tiếp diễn.
+んですよね?:
+んです: Dùng để giải thích, nhấn mạnh.
+よね: Tìm kiếm sự đồng tình.
+Câu 4:
+男: はい。この店はもともとパン作りが好きな母がやる予定だったんですが、
+👉 Vâng. Ban đầu, cửa hàng này là do mẹ tôi, người rất thích làm bánh, định mở, nhưng...
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+はい: Vâng.
+この店 (このみせ): Cửa hàng này.
+は: Trợ từ chủ đề.
+もともと: Ban đầu, vốn dĩ.
+パン作り (ぱんづくり): Làm bánh mì.
+が: Trợ từ chỉ chủ ngữ.
+好きな (すきな): Yêu thích (bổ nghĩa cho 母).
+母 (はは): Mẹ (cách nói về mẹ mình với người khác).
+が: Trợ từ chỉ chủ ngữ.
+やる予定だった (やるよていだった):
+やる: Làm, mở (ở đây nghĩa là mở tiệm).
+予定 (よてい): Dự định.
+だった: Quá khứ của です (đã từng là).
+んですが: Nhưng mà...
+Câu 5:
+店を出す準備をしている途中で母が病気になってしまいました。
+👉 Trong lúc đang chuẩn bị mở cửa hàng, mẹ tôi bị bệnh mất rồi.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+店を出す (みせをだす): Mở cửa hàng.
+準備 (じゅんび): Chuẩn bị.
+を: Trợ từ chỉ tân ngữ.
+している途中で (しているとちゅうで):
+～している: Đang làm gì đó.
+途中で (とちゅうで): Trong lúc, giữa chừng.
+母が病気になってしまいました (ははがびょうきになってしまいました):
+母 (はは): Mẹ.
+が: Trợ từ chỉ chủ ngữ.
+病気になる (びょうきになる): Bị bệnh.
+～てしまいました: Thể hiện sự đáng tiếc (mất rồi, xảy ra mất rồi).
+Câu 6:
+母はずっとパン屋をやりたかったので、店を諦めることをとても残念がっていたんですよ。
+👉 Mẹ tôi luôn muốn mở tiệm bánh, nên khi phải từ bỏ cửa hàng, bà ấy đã rất tiếc nuối.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+母 (はは): Mẹ.
+は: Trợ từ chủ đề.
+ずっと: Suốt, luôn luôn.
+パン屋 (ぱんや): Tiệm bánh.
+を: Trợ từ chỉ tân ngữ.
+やりたかった (やりたかった): Đã muốn làm (dạng quá khứ của やりたい).
+ので: Vì, do.
+店を諦めること (みせをあきらめること): Việc từ bỏ cửa hàng.
+店 (みせ): Cửa hàng.
+を: Trợ từ tân ngữ.
+諦める (あきらめる): Từ bỏ.
+こと: Danh từ hóa động từ.
+をとても残念がっていたんですよ (をとてもざんねんがっていたんですよ):
+とても: Rất.
+残念がる (ざんねんがる): Cảm thấy tiếc nuối.
+～ていた: Quá khứ tiếp diễn (đã từng cảm thấy như vậy).
+んですよ: Nhấn mạnh sự giải thích.
+Câu 7:
+それで「やってくれ」と言われたわけじゃないんですが、僕が何とか形にしたいと思いました。
+👉 Vì vậy, không hẳn là mẹ bảo tôi phải làm, nhưng tôi vẫn muốn biến nó thành hiện thực.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+それで: Vì vậy, do đó (liên từ chỉ nguyên nhân).
+「やってくれ」:
+やってくれ: Hình thức rút gọn của やってくれと言われた (được bảo hãy làm).
+くれ: Dạng mệnh lệnh của くれる (làm cho ai đó).
+と言われた (といわれた): Được nói rằng.
+わけじゃないんですが (わけじゃないんですが):
+わけじゃない: Không hẳn là...
+んですが: Nhấn mạnh sự giải thích nhưng vẫn để ngỏ.
+僕が何とか形にしたいと思いました (ぼくがなんとかかたちにしたいとおもいました):
+僕 (ぼく): Tôi.
+が: Trợ từ chỉ chủ ngữ.
+何とか (なんとか): Bằng cách nào đó.
+形にする (かたちにする): Hiện thực hóa, làm thành hình dạng cụ thể.
+したい: Muốn làm.
+と思いました: Tôi đã nghĩ rằng...
+Câu 8:
+女: それまでパン作りのご経験はあったんですか?
+👉 Trước đó anh đã có kinh nghiệm làm bánh chưa?
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+それまで: Trước đó, đến thời điểm đó.
+パン作り (ぱんづくり): Làm bánh.
+の: Danh từ hóa.
+ご経験 (ごけいけん): Kinh nghiệm (dùng kính ngữ).
+は: Trợ từ chủ đề.
+あったんですか?
+あった: Đã có (quá khứ của ある).
+んですか: Nhấn mạnh câu hỏi.
+Câu 9:
+男: いえ、全くなくて・・・。パン作りは専門学校で一から勉強しました。
+👉 Không, hoàn toàn không có... Tôi đã học làm bánh từ đầu ở trường dạy nghề.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+いえ: Không (cách nói lịch sự).
+全くなくて (まったくなくて): Hoàn toàn không có.
+パン作り (ぱんづくり): Làm bánh.
+は: Trợ từ chủ đề.
+専門学校 (せんもんがっこう): Trường dạy nghề.
+で: Trợ từ chỉ nơi xảy ra hành động.
+一から (いちから): Từ con số 0, từ đầu.
+勉強しました (べんきょうしました): Đã học.
+Câu 10:
+卒業する前に母は亡くなりました。
+👉 Trước khi tôi tốt nghiệp, mẹ tôi đã qua đời.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+卒業する前に (そつぎょうするまえに): Trước khi tốt nghiệp.
+母 (はは): Mẹ.
+は: Trợ từ chủ đề.
+亡くなりました (なくなりました): Đã qua đời (cách nói lịch sự của 死ぬ).
+Câu 11:
+女: そうでしたか。
+👉 Vậy sao...
+
+📌 Phân tích:
+
+そうでしたか: Câu phản hồi thể hiện sự cảm thông.
+Câu 12:
+男: 母のレベルにはまだまだなんですが、おいしいパンを地元の方に食べてもらえるように頑張っています。
+👉 Tôi vẫn chưa đạt đến trình độ của mẹ, nhưng tôi đang cố gắng để người dân địa phương có thể thưởng thức bánh ngon.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+母のレベル (ははのれべる): Trình độ của mẹ.
+には: Trợ từ chỉ phạm vi, mức độ.
+まだまだ: Vẫn còn xa, vẫn chưa đạt tới.
+なんですが: Nhưng mà...
+おいしいパン (おいしいぱん): Bánh ngon.
+を: Trợ từ chỉ tân ngữ.
+地元の方 (じもとのかた): Người dân địa phương.
+に: Trợ từ chỉ đối tượng.
+食べてもらえる (たべてもらえる):
+食べる: Ăn.
+もらえる: Được người khác làm gì đó (ở đây là "được thưởng thức bánh").
+ように頑張っています (ようにがんばっています): Đang cố gắng để đạt được điều gì đó.

@@ -1,0 +1,164 @@
+Phân tích từ câu 
+Câu 1:
+女: 課長、明日の卒業パーティについてですけど、あとは何をしましょうか。
+📌 Phân tích từ vựng & ngữ pháp:
+
+課長 (かちょう): Trưởng bộ phận, trưởng phòng.
+明日 (あした/あす): Ngày mai.
+卒業パーティ (そつぎょうパーティー): Tiệc tốt nghiệp.
+について (について): Về ~, liên quan đến ~.
+ですけど: Dùng để mở đầu câu, đưa ra chủ đề hoặc làm mềm câu hỏi.
+あとは何をしましょうか (あとはなにをしましょうか): Còn lại chúng ta sẽ làm gì?
+あとは: Còn lại, phần còn lại.
+何をしましょうか: Chúng ta sẽ làm gì?
+📌 Ý nghĩa:
+"Trưởng phòng, về buổi tiệc tốt nghiệp ngày mai, còn việc gì nữa cần làm không ạ?"
+
+Câu 2:
+男: 卒業生の皆さんに渡す記念品は袋に入れてくれた?
+📌 Phân tích từ vựng & ngữ pháp:
+
+卒業生 (そつぎょうせい): Học sinh tốt nghiệp.
+の皆さん (のみなさん): Mọi người (của nhóm nào đó).
+に渡す (にわたす): Đưa cho (ai đó).
+記念品 (きねんひん): Quà kỷ niệm.
+は袋に入れてくれた (はふくろにいれてくれた)?
+袋 (ふくろ): Túi, bao.
+入れる (いれる): Bỏ vào, cho vào.
+くれた: (Cậu) đã làm giúp tôi chưa? (Thể hiện sự nhờ vả, quan tâm).
+📌 Ý nghĩa:
+"Cậu đã bỏ quà kỷ niệm vào túi giúp tôi chưa?"
+
+Câu 3:
+女: まだ届いていないんですよ。
+📌 Phân tích từ vựng & ngữ pháp:
+
+まだ (まだ): Vẫn chưa.
+届いていない (とどいていない): Chưa được giao đến.
+届く (とどく): Được giao đến, đến nơi.
+ていない: Dạng phủ định của ている, diễn tả trạng thái chưa xảy ra.
+んですよ (んですよ): Nhấn mạnh sự giải thích.
+📌 Ý nghĩa:
+"Vẫn chưa được giao đến ạ."
+
+Câu 4:
+男: あ、記念品の納品は3時だったね。あと1時間か・・・
+📌 Phân tích từ vựng & ngữ pháp:
+
+あ: À, ồ (cảm thán khi nhớ ra điều gì đó).
+記念品 (きねんひん): Quà kỷ niệm.
+の納品 (ののうひん): Việc giao hàng.
+納品 (のうひん): Giao hàng, chuyển hàng.
+は3時だったね (はさんじだったね): Là 3 giờ nhỉ.
+だった: Quá khứ của です, dùng để xác nhận thông tin.
+あと1時間か (あといちじかんか): Còn 1 tiếng nữa à...
+あと (あと): Còn lại.
+1時間 (いちじかん): 1 tiếng.
+か: Tự hỏi bản thân hoặc xác nhận.
+📌 Ý nghĩa:
+"À, quà kỷ niệm sẽ được giao lúc 3 giờ nhỉ. Còn 1 tiếng nữa à..."
+
+Câu 5:
+それじゃ、会場の入り口の花瓶、あれをステージの上に運んでくれる?
+📌 Phân tích từ vựng & ngữ pháp:
+
+それじゃ (それじゃ): Vậy thì (dùng khi quyết định hành động tiếp theo).
+会場の入り口 (かいじょうのいりぐち): Lối vào hội trường.
+会場 (かいじょう): Hội trường, địa điểm tổ chức.
+入り口 (いりぐち): Lối vào.
+の花瓶 (のかびん): Cái bình hoa ở đó.
+花瓶 (かびん): Bình hoa.
+あれをステージの上に運んでくれる? (あれをステージのうえにはこんでくれる?)
+あれ: Cái đó (cái bình hoa).
+ステージの上 (ステージのうえ): Trên sân khấu.
+運ぶ (はこぶ): Vận chuyển, mang đến.
+くれる?: Làm giúp tôi được không?
+📌 Ý nghĩa:
+"Vậy thì, cậu có thể mang cái bình hoa ở lối vào hội trường lên sân khấu giúp tôi không?"
+
+Câu 6:
+女: はい、花瓶ですね。
+📌 Phân tích từ vựng & ngữ pháp:
+
+はい。: Vâng.
+花瓶ですね (かびんですね): Bình hoa nhỉ.
+ですね: Xác nhận lại thông tin.
+📌 Ý nghĩa:
+"Vâng, bình hoa nhỉ."
+Câu 7:
+男: それと記念品の到着を待ってる間、出席者の名前を書いた紙を椅子に貼ってくれない?
+📌 Phân tích từ vựng & ngữ pháp:
+
+それと: Thêm vào đó, ngoài ra.
+記念品の到着 (きねんひんのとうちゃく): Sự đến nơi của quà kỷ niệm.
+記念品 (きねんひん): Quà kỷ niệm.
+到着 (とうちゃく): Sự đến nơi.
+を待ってる間 (をまってるあいだ): Trong lúc chờ đợi.
+待ってる (まってる): Dạng rút gọn của 待っている (đang chờ).
+間 (あいだ): Trong lúc ~.
+出席者の名前を書いた紙 (しゅっせきしゃのなまえをかいたかみ): Tờ giấy có ghi tên người tham dự.
+出席者 (しゅっせきしゃ): Người tham dự.
+の名前 (のなまえ): Tên của ~.
+を書いた紙 (をかいたかみ): Tờ giấy đã viết.
+書いた (かいた): Đã viết (quá khứ của 書く).
+紙 (かみ): Tờ giấy.
+を椅子に貼ってくれない? (をいすにはってくれない?)
+椅子 (いす): Ghế.
+貼る (はる): Dán, dính vào.
+くれない?: Làm giúp tôi được không? (Cách nhờ vả nhẹ nhàng).
+📌 Ý nghĩa:
+"Ngoài ra, trong lúc chờ quà kỷ niệm đến, cậu có thể dán tờ giấy ghi tên người tham dự lên ghế giúp tôi được không?"
+
+Câu 8:
+そうだ、忘れないうちに言っとくけど明日の朝一番に卒業生代表のグエンさんと挨拶のリハーサルをお願いね。
+📌 Phân tích từ vựng & ngữ pháp:
+
+そうだ: À đúng rồi (nhớ ra điều gì đó).
+忘れないうちに (わすれないうちに): Trước khi quên.
+忘れない (わすれない): Không quên.
+うちに: Trong khi còn (chưa bị mất đi).
+言っとくけど (いっとくけど): Tôi nói trước nhé.
+言っとく: Dạng rút gọn của 言っておく, nghĩa là "nói trước để nhắc nhở."
+明日の朝一番に (あしたのあさいちばんに): Vào sáng sớm ngày mai.
+明日 (あした): Ngày mai.
+朝一番 (あさいちばん): Đầu tiên vào buổi sáng.
+卒業生代表のグエンさんと (そつぎょうせいだいひょうのグエンさんと): Cùng với đại diện học sinh tốt nghiệp, anh Nguyễn.
+卒業生代表 (そつぎょうせいだいひょう): Đại diện học sinh tốt nghiệp.
+挨拶のリハーサルをお願いね (あいさつのリハーサルをおねがいね): Nhờ cậu làm buổi diễn tập lời chào nhé.
+挨拶 (あいさつ): Lời chào, bài phát biểu.
+リハーサル: Buổi diễn tập.
+お願いね (おねがいね): Nhờ nhé (cách nói thân mật).
+📌 Ý nghĩa:
+"À đúng rồi, trước khi quên tôi nói luôn, sáng sớm mai cậu hãy diễn tập lời chào cùng đại diện học sinh tốt nghiệp, anh Nguyễn nhé."
+
+Câu 9:
+女: はい、わかりました。
+📌 Phân tích từ vựng & ngữ pháp:
+
+はい: Vâng.
+わかりました (わかりました): Tôi hiểu rồi.
+📌 Ý nghĩa:
+"Vâng, tôi hiểu rồi."
+
+Câu 10:
+男: あ、花瓶の移動なんだけど、落とすといけないから記念品の準備の後で私と一緒にやりましょうか。
+📌 Phân tích từ vựng & ngữ pháp:
+
+あ: À, ồ (nhớ ra điều gì đó).
+花瓶の移動なんだけど (かびんのいどうなんだけど): Về việc di chuyển bình hoa ấy.
+花瓶 (かびん): Bình hoa.
+移動 (いどう): Di chuyển.
+なんだけど: Cách mở đầu khi muốn nói thêm điều gì đó.
+落とすといけないから (おとすといけないから): Vì nếu làm rơi thì không được.
+落とす (おとす): Làm rơi.
+といけない: Nếu ~ thì không được.
+から: Vì, bởi vì.
+記念品の準備の後で (きねんひんのじゅんびのあとで): Sau khi chuẩn bị quà kỷ niệm.
+記念品 (きねんひん): Quà kỷ niệm.
+準備 (じゅんび): Chuẩn bị.
+の後で (のあとで): Sau khi ~.
+私と一緒にやりましょうか (わたしといっしょにやりましょうか): Cùng làm với tôi nhé?
+私と一緒に (わたしといっしょに): Cùng với tôi.
+やりましょうか: Cùng làm nhé?
+📌 Ý nghĩa:
+"À, về việc di chuyển bình hoa ấy, vì nếu làm rơi thì không được, nên sau khi chuẩn bị quà kỷ niệm xong, chúng ta cùng làm với tôi nhé?"

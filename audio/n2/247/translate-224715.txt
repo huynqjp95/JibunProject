@@ -1,0 +1,212 @@
+Phân tích 
+女: 田中くん、聞いて。昨日自転車、駅前に止めてたんだけど、乗って帰ろうとしたら自転車がなくて・・・。
+👉 Tanaka này, nghe tớ nói này. Hôm qua tớ đỗ xe đạp ở trước ga, nhưng khi định lên xe để về thì không thấy xe đâu cả...
+
+📌 Phân tích:
+
+田中くん (たなかくん): Cách gọi thân mật với bạn bè hoặc người dưới mình (くん được dùng cho nam).
+聞いて (きいて): Thể mệnh lệnh của 聞く (nghe), mang nghĩa “nghe này” hoặc “nghe tớ nói này”.
+昨日 (きのう): Hôm qua.
+自転車 (じてんしゃ): Xe đạp.
+駅前 (えきまえ): Trước ga.
+に止めてた (にとめてた):
+止める (とめる): Dừng, đỗ xe.
+てた là dạng rút gọn của ていた, thể quá khứ tiếp diễn (đã làm gì đó và trạng thái đó tiếp diễn).
+んだけど:
+Cấu trúc ～んだけど (dạng rút gọn của ～のだけど) diễn tả bối cảnh hoặc phần mở đầu trước khi nói điều tiếp theo.
+乗って帰ろうとしたら (のってかえろうとしたら):
+乗る (のる): Lên (xe).
+帰る (かえる): Về.
+～ようとする: Cố gắng làm gì đó.
+～たら: Nếu (trường hợp này là “khi” hoặc “lúc”).
+→ Nghĩa là: Lúc tớ định lên xe để về thì...
+自転車がなくて:
+なくて là dạng nối câu của ない (không có).
+Nghĩa cả câu: Xe đạp không có (mất rồi)...
+Câu 2:
+置いといた場所の地面に「駐輪禁止区域のため移動しました」って紙が貼られてたんだよ。
+👉 Trên mặt đất, ngay chỗ tớ để xe, có tờ giấy ghi rằng “Vì đây là khu vực cấm đỗ xe đạp nên đã bị di chuyển đi.”
+
+📌 Phân tích:
+
+置いといた (おいといた):
+置く (おく): Đặt, để.
+～といた là rút gọn của ～ておいた, diễn tả một hành động làm trước để chuẩn bị cho điều gì đó.
+→ Đã để xe (ở đó).
+場所 (ばしょ): Địa điểm, nơi chốn.
+地面 (じめん): Mặt đất.
+駐輪禁止区域 (ちゅうりんきんしくいき):
+駐輪 (ちゅうりん): Đỗ xe đạp.
+禁止 (きんし): Cấm.
+区域 (くいき): Khu vực.
+→ Khu vực cấm đỗ xe đạp.
+ため: Vì (chỉ nguyên nhân).
+移動しました (いどうしました):
+移動する (いどうする): Di chuyển.
+しました là thể quá khứ.
+→ Đã bị di chuyển đi.
+～って紙が貼られてた (～ってかみがはられてた):
+～って: Dạng rút gọn của ～という (có nghĩa là).
+紙 (かみ): Tờ giấy.
+貼られてた (はられてた):
+貼る (はる): Dán.
+貼られる: Dạng bị động → Bị dán vào.
+→ Có tờ giấy ghi như thế bị dán lên đó.
+Câu 3:
+男: 駅前は駐輪場以外には停めちゃいけないんだよ。
+👉 Trước ga, ngoài bãi đỗ xe ra thì không được đỗ xe đạp đâu.
+
+📌 Phân tích:
+
+駅前 (えきまえ): Trước ga.
+駐輪場 (ちゅうりんじょう): Bãi đỗ xe đạp.
+以外 (いがい): Ngoài (cái gì đó).
+には: Nhấn mạnh vị trí hoặc phạm vi.
+停めちゃいけない (とめちゃいけない):
+停める (とめる): Đỗ xe.
+ちゃいけない là dạng rút gọn của てはいけない → Không được phép làm gì đó.
+→ Không được phép đỗ xe (ngoài bãi đỗ xe).
+Câu 4:
+女: そうなんだ。どうすればいいの? 自転車、警察に取りに行くの?
+👉 Vậy à? Thế bây giờ tớ phải làm sao? Có phải đi đến đồn cảnh sát để lấy xe không?
+
+📌 Phân tích:
+
+そうなんだ:
+そう (vậy à): Diễn tả sự xác nhận thông tin.
+なんだ (dạng rút gọn của なのだ) mang ý nghĩa giải thích.
+どうすればいいの?
+どうする: Làm thế nào.
+ばいい: Cấu trúc ngữ pháp ～ばいい (nếu làm ... thì tốt).
+→ Nên làm thế nào đây?
+自転車 (じてんしゃ): Xe đạp.
+警察 (けいさつ): Cảnh sát.
+取りに行く (とりにいく):
+取る (とる): Lấy.
+に行く: Đi để làm gì đó.
+→ Đi lấy (xe) ở cảnh sát?
+Câu 5:
+男: 警察じゃないと思うけど・・・貼られてた紙に預かり場所、書いてなかった?
+👉 Tớ nghĩ là không phải cảnh sát đâu... Trên tờ giấy dán đó không có ghi chỗ giữ xe sao?
+
+📌 Phân tích:
+
+警察じゃないと思うけど・・・
+じゃない: Không phải là.
+と思う (とおもう): Tôi nghĩ là.
+けど: Nhưng... (mang tính nhẹ nhàng).
+貼られてた紙に (はられてたかみに):
+紙 (かみ): Tờ giấy.
+貼られてた: Bị dán lên (thể bị động).
+に: Chỉ vị trí (trên giấy).
+預かり場所 (あずかりばしょ):
+預かる (あずかる): Giữ, trông coi.
+場所 (ばしょ): Địa điểm.
+→ Nơi giữ xe.
+書いてなかった?:
+書く (かく): Viết.
+てなかった: Quá khứ phủ định (không có viết à?).
+Câu 6:
+女: よく読まなかった。
+👉 Tớ chưa đọc kỹ...
+
+📌 Phân tích:
+
+よく: Kỹ, cẩn thận.
+読まなかった (よまなかった):
+読む (よむ): Đọc.
+～なかった: Quá khứ phủ định.
+→ Chưa đọc kỹ.
+Câu 7:
+男: えーっと、そしたら市役所のホームページに書いてあるから確認して。取りに行くならそれからだよ。
+👉 Ừm... nếu vậy thì trên trang web của tòa thị chính có ghi đấy, kiểm tra đi. Nếu muốn đi lấy xe thì làm sau khi kiểm tra.
+
+📌 Phân tích:
+
+えーっと: Từ đệm, thể hiện sự suy nghĩ trước khi nói.
+そしたら: Dạng rút gọn của そうしたら, nghĩa là nếu vậy thì...
+市役所 (しやくしょ): Tòa thị chính, ủy ban nhân dân thành phố.
+ホームページ: Trang web chính thức.
+に書いてある (にかいてある):
+書く (かく): Viết.
+てある: Thể hiện trạng thái kết quả của một hành động có chủ đích (có ghi sẵn trên đó).
+から: Vì, nên (chỉ nguyên nhân).
+確認して (かくにんして):
+確認する (かくにんする): Xác nhận, kiểm tra.
+して: Thể mệnh lệnh nhẹ (hãy làm).
+取りに行く (とりにいく):
+取る (とる): Lấy.
+に行く: Đi để làm gì đó.
+→ Đi lấy xe.
+なら: Nếu (điều kiện giả định).
+それからだよ:
+それから: Sau đó.
+だよ: Nhấn mạnh thông tin.
+→ Phải làm sau khi kiểm tra đã.
+Câu 8:
+女: わかった。
+👉 Tớ hiểu rồi.
+
+📌 Phân tích:
+
+わかった:
+Dạng quá khứ của わかる (hiểu).
+Trong hội thoại có nghĩa là “Hiểu rồi.” hoặc “OK.”
+Câu 9:
+男: 確か身分証明書がいるよ。
+👉 Hình như cần giấy tờ tùy thân đấy.
+
+📌 Phân tích:
+
+確か (たしか): Hình như, nếu tớ nhớ không nhầm thì.
+身分証明書 (みぶんしょうめいしょ): Giấy tờ tùy thân.
+がいる:
+いる (cần, phải có).
+が: Trợ từ chỉ chủ ngữ.
+→ Cần giấy tờ tùy thân.
+Câu 10:
+男: あ、あとお金もいる。自転車受け取る時払うよ。
+👉 À, còn cần tiền nữa. Khi nhận xe đạp thì phải trả tiền.
+
+📌 Phân tích:
+
+あ、あと (あ、あと): À, còn nữa...
+お金 (おかね): Tiền.
+もいる:
+も: Cũng.
+いる: Cần.
+→ Cũng cần tiền nữa.
+自転車 (じてんしゃ): Xe đạp.
+受け取る時 (うけとるとき):
+受け取る (うけとる): Nhận, lấy (đồ).
+時 (とき): Khi (thời điểm).
+→ Khi nhận xe đạp.
+払う (はらう): Trả tiền.
+よ: Nhấn mạnh.
+→ Phải trả tiền đấy.
+Câu 11:
+女: お金払うの?
+👉 Phải trả tiền á?
+
+📌 Phân tích:
+
+お金 (おかね): Tiền.
+払う (はらう): Trả.
+の?:
+Dùng để hỏi lại với sắc thái bất ngờ.
+→ Phải trả tiền á? (Ngạc nhiên)
+Câu 12:
+男: うん、自転車の預かり料だよ。
+👉 Ừ, đó là phí trông giữ xe đạp.
+
+📌 Phân tích:
+
+うん: Ừ (cách trả lời khẳng định thân mật).
+自転車 (じてんしゃ): Xe đạp.
+の: Trợ từ sở hữu (của).
+預かり料 (あずかりりょう):
+預かる (あずかる): Giữ, trông nom.
+料 (りょう): Phí.
+→ Phí trông giữ xe đạp.
+だよ: Nhấn mạnh thông tin.
+

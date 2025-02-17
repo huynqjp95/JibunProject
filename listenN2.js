@@ -65,17 +65,23 @@ function pickSubject() {
   ];
   const listContainer = document.getElementById("n3-24-7-container");
   let html = ""; //bien local html
-  let script = [];
+  const script = [];
+  const scriptTranslate = [];
   audioArr.forEach(function (mov, i) {
     //nap script cho audio bằng fetch với tham số là ủrl hay là đường dẫn đến file
     async function fetchFiletxt() {
       try {
         const response = await fetch(`${audioLink}${scriptArr[i]}`);
-        if (!response.ok) {
+        const responseTranslate = await fetch(
+          `${audioLink}translate-${scriptArr[i]}`
+        );
+        if (!response.ok || !responseTranslate.ok) {
           throw new Error(`không thể tải file ${audioLink}${scriptArr[i]}`);
         }
         const content = await response.text();
+        const contentTranslate = await responseTranslate.text();
         script[i] = content;
+        scriptTranslate[i] = contentTranslate;
         html += `
   <div class="form-audio">
   <audio loop class="audio-element" src="${audioLink}${mov}"></audio>
@@ -91,7 +97,10 @@ function pickSubject() {
   <button class="play-btn">Play</button>
   <button class="pause-btn">Pause</button>
   <button class="return-btn">Return</button>
+  <button class="translate">Translate</button>
   <pre>${script[i]}</pre> 
+  <pre class="hidden translate-script">${scriptTranslate[i]}</pre> 
+  
   </div>
   `;
         eventAudio();
@@ -113,7 +122,8 @@ function pickSubject() {
     const returnBtn = document.querySelectorAll(".return-btn");
     const progressBar = document.querySelectorAll(".progressBar");
     const currentTime = document.querySelectorAll(".currentTime");
-
+    const translationBtn = document.querySelectorAll(".translate");
+    const translationScript = document.querySelectorAll(".translate-script");
     // vong for cho cac su kien: hien thi file audio , nut play pasue return , va keydown
     audioArr.forEach(function (mov, i) {
       // lay do dai audio (s)
@@ -161,6 +171,10 @@ function pickSubject() {
             audio[i].currentTime += 5;
           }
         }
+      });
+      // su kien click hien thi ban dich
+      translationBtn[i].addEventListener("click", function () {
+        translationScript[i].classList.toggle("hidden");
       });
     });
   }

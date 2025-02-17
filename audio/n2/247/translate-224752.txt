@@ -1,0 +1,162 @@
+1. 女1: 本日は桜港祭りにお越しいただき、ありがとうございます。
+(Hôm nay, cảm ơn quý vị đã đến tham dự lễ hội cảng Sakura.)
+
+本日 (ほんじつ): Hôm nay (cách nói trang trọng của 今日).
+桜港祭り (さくらこうまつり): Lễ hội cảng Sakura (tên của lễ hội).
+お越しいただき (おこしいただき): Đến tham dự (câu kính ngữ của 来る).
+お越しになる là cách kính ngữ của động từ 来る (đến).
+いただき là dạng khiêm nhường của もらう (nhận).
+ありがとうございます: Cảm ơn (dùng trong văn nói lịch sự).
+Ý nghĩa: Người nói cảm ơn mọi người vì đã tham gia lễ hội cảng Sakura, sử dụng cách nói trang trọng để thể hiện sự tôn trọng đối với người nghe.
+
+2. 会場は4つに分かれています。
+(Nơi tổ chức được chia thành 4 khu vực.)
+
+会場 (かいじょう): Nơi tổ chức sự kiện, hội trường.
+4つに分かれています (よっつにわかれています): Được chia thành 4 khu vực (dạng bị động của 分かれる - chia ra, phân chia).
+4つ (よっつ): 4 cái, 4 khu vực (sử dụng với danh từ đếm được).
+に分かれています: Được chia ra thành, chỉ sự phân chia trong không gian hoặc tổ chức.
+Ý nghĩa: Người nói cho biết rằng khu vực tổ chức sự kiện được chia thành 4 khu vực khác nhau.
+
+3. 各会場についてご案内いたします。
+(Tôi sẽ hướng dẫn quý vị về từng khu vực.)
+
+各会場 (かくかいじょう): Từng khu vực.
+各 (かく): Mỗi, từng.
+について: Về, liên quan đến.
+ご案内いたします (ごあんないいたします): Tôi sẽ hướng dẫn (kính ngữ của 案内する - hướng dẫn).
+ご案内 (ごあんない): Hướng dẫn (dạng kính ngữ).
+いたします: Dạng khiêm nhường của する (làm).
+Ý nghĩa: Người nói sẽ hướng dẫn chi tiết về từng khu vực trong lễ hội.
+
+4. 中央会場では、今朝捕れた魚や貝をその場で焼いてお召し上がりいただけます。
+(Tại khu vực trung tâm, quý vị có thể nướng cá và sò được bắt vào sáng nay ngay tại chỗ và thưởng thức.)
+
+中央会場 (ちゅうおうかいじょう): Khu vực trung tâm.
+今朝 (けさ): Sáng nay.
+捕れた魚や貝 (とれたさかなやかい): Cá và sò đã được bắt (dạng quá khứ của động từ 捕れる - bắt được).
+その場で (そのばで): Ngay tại chỗ, tại nơi đó.
+焼いて (やいて): Nướng (dạng て của động từ 焼く).
+お召し上がりいただけます (おめしあがりいただけます): Quý vị có thể thưởng thức (cách kính ngữ của 食べる - ăn).
+お召し上がり (おめしあがり): Thưởng thức (cách khiêm nhường và kính ngữ của động từ 食べる).
+Ý nghĩa: Người nói mô tả về hoạt động tại khu vực trung tâm, nơi người tham gia có thể nướng cá và sò vừa bắt được vào sáng nay và ăn ngay tại chỗ.
+
+5. こちらは、なくなり次第終了いたします。
+(Món này sẽ kết thúc ngay khi hết.)
+
+こちらは: Cái này (dùng để chỉ cái gì đó gần với người nói).
+なくなり次第 (なくなりしだい): Ngay khi hết, khi không còn (dạng て của なくなる - hết, không còn).
+終了いたします (しゅうりょういたします): Sẽ kết thúc (dạng kính ngữ của 終了する - kết thúc).
+Ý nghĩa: Người nói thông báo rằng món ăn sẽ kết thúc ngay khi không còn nữa, và khi hết sẽ không còn phục vụ nữa.
+
+6. 南会場では、初心者向けの釣り教室を開催しています。
+(Tại khu vực phía Nam, chúng tôi đang tổ chức lớp học câu cá cho người mới bắt đầu.)
+
+南会場 (みなみかいじょう): Khu vực phía Nam.
+初心者向け (しょしんしゃむけ): Dành cho người mới bắt đầu.
+初心者 (しょしんしゃ): Người mới bắt đầu.
+向け (むけ): Dành cho, hướng đến.
+釣り教室 (つりきょうしつ): Lớp học câu cá.
+開催しています (かいさいしています): Đang tổ chức (dạng tiếp diễn của động từ 開催する - tổ chức).
+Ý nghĩa: Người nói thông báo về lớp học câu cá dành cho người mới bắt đầu tại khu vực phía Nam.
+
+7. 道具の貸し出しはもちろん、餌の付け方などもお教えいたします。
+(Chúng tôi sẽ cho mượn dụng cụ câu cá, tất nhiên, và sẽ hướng dẫn cả cách gắn mồi.)
+
+道具の貸し出し (どうぐのかしだし): Cho mượn dụng cụ (câu cá).
+はもちろん: Tất nhiên, đương nhiên.
+餌の付け方 (えさのつけかた): Cách gắn mồi.
+などもお教えいたします (などもおおしえいたします): Cũng sẽ dạy (cách sử dụng など để liệt kê ví dụ, お教えいたします là dạng kính ngữ của 教える - dạy).
+Ý nghĩa: Người nói cho biết rằng họ sẽ cho mượn dụng cụ câu cá và sẽ hướng dẫn cách gắn mồi, điều này sẽ giúp người tham gia dễ dàng học câu cá.
+8. 女2: 新鮮な魚、おいしそう。なくなる前に早く行かない?
+(Cá tươi trông ngon quá. Trước khi hết, chúng ta đi nhanh đi chứ?)
+
+新鮮な魚 (しんせんなさかな): Cá tươi
+新鮮 (しんせん): Tươi, mới (dùng cho thực phẩm hoặc đồ vật).
+魚 (さかな): Cá.
+おいしそう: Trông ngon, có vẻ ngon (dùng để diễn tả sự đánh giá về vẻ ngoài của món ăn).
+なくなる前に (なくなるまえに): Trước khi hết (dùng để chỉ hành động cần thực hiện trước khi một cái gì đó kết thúc hoặc không còn nữa).
+なくなる: Hết, không còn.
+前に (まえに): Trước khi.
+早く行かない? (はやくいかない?): Chúng ta đi nhanh đi chứ?
+早く (はやく): Nhanh chóng.
+行かない (いかない): Đi (dạng phủ định của 行く - đi).
+行かない?: Dùng để mời hoặc đề nghị, có nghĩa là “chúng ta không đi sao?”
+Ý nghĩa: Người nói (女2) đang gợi ý nên đi nhanh đến nơi bán cá tươi trước khi cá hết.
+
+9. 男: え?早速買い物?先に買っちゃうと持って歩くの大変じゃない?
+(Ơ? Mua sắm ngay à? Nếu mua trước rồi mang đi sẽ rất khó khăn đấy.)
+
+え?: Câu hỏi ngạc nhiên, “Ơ?”
+早速買い物? (さっそくかいもの?): Mua sắm ngay à?
+早速 (さっそく): Ngay lập tức, ngay.
+買い物 (かいもの): Mua sắm.
+先に買っちゃうと (さきにかっちゃうと): Nếu mua trước.
+先に (さきに): Trước, trước tiên.
+買っちゃう: Dạng rút gọn của 買ってしまう (mua hết, mua xong). Diễn tả hành động mà người nói cho là không hợp lý.
+持って歩くの大変じゃない? (もってあるくのたいへんじゃない?): Mang đi sẽ rất vất vả đúng không?
+持って歩く (もってあるく): Mang đi và đi bộ.
+の: Dùng để nối giữa động từ và tính từ.
+大変 (たいへん): Vất vả, khó khăn.
+じゃない?: Câu hỏi phủ định nhẹ, thể hiện sự ngạc nhiên hoặc thắc mắc.
+Ý nghĩa: Người nói (男) không đồng ý với việc đi mua sắm ngay, cho rằng mang đồ mua trước sẽ rất khó khăn.
+
+10. 女2: あ、そっちじゃなくて自分たちで焼いて食べられるって方。買い物は最後にしようよ。
+(À, không phải vậy đâu, ý tôi là chúng ta có thể tự nướng và ăn. Mua sắm thì để sau đi.)
+
+あ、そっちじゃなくて: À, không phải cái đó đâu (dùng để sửa lại ý mà người nghe đang hiểu sai).
+自分たちで焼いて食べられるって方 (じぶんたちでやいてたべられるってほう): Cái mà chúng ta có thể tự nướng và ăn.
+自分たちで (じぶんたちで): Tự mình, tự làm.
+焼いて (やいて): Nướng (dạng て của 焼く).
+食べられる (たべられる): Có thể ăn (dạng khả năng của động từ 食べる - ăn).
+って: Dạng rút gọn của と言って (nói rằng).
+方 (ほう): Hướng, phía (trong ngữ cảnh này là “món” hoặc “cái đó”).
+買い物は最後にしようよ (かいものはさいごにしようよ): Mua sắm thì để sau đi.
+買い物 (かいもの): Mua sắm.
+最後に (さいごに): Cuối cùng, sau cùng.
+しようよ: Dùng để đề nghị, “hãy làm”.
+Ý nghĩa: Người nói (女2) giải thích rằng cô ấy muốn nướng và ăn món đó trước, và mua sắm thì làm sau.
+
+11. 男: あぁ、じゃ、まずはそこに行こう。それから近くで生き物を観察できるっていうのに行かない?
+(A, vậy thì, trước tiên chúng ta đi đến đó. Sau đó, sao không đến chỗ gần đó để quan sát các sinh vật?)
+
+あぁ、じゃ: À, vậy thì.
+まずはそこに行こう: Trước tiên chúng ta đi đến đó.
+まずは: Trước tiên.
+行こう: Đi (dạng mệnh lệnh nhẹ của 行く).
+それから: Sau đó.
+近くで生き物を観察できるっていうのに行かない? (ちかくでいきものをかんさつできるっていうのにいかない?): Sao không đến chỗ gần đó để quan sát các sinh vật?
+近くで (ちかくで): Ở gần, tại gần.
+生き物 (いきもの): Sinh vật, động vật.
+観察できる (かんさつできる): Có thể quan sát (dạng khả năng của 観察する - quan sát).
+っていうのに: Dùng để giải thích hoặc làm rõ một việc.
+行かない?: Đi không?
+Ý nghĩa: Người nói (男) đề xuất đi đến khu vực gần đó để quan sát các sinh vật sau khi xong việc nướng cá.
+
+12. 女2: いいよ。釣りはいいの?好きでしょ?今日もやりたいんじゃない?
+(Được rồi. Còn câu cá thì sao? Anh thích mà, hôm nay chắc anh cũng muốn làm phải không?)
+
+いいよ: Được rồi, đồng ý.
+釣りはいいの? (つりはいいの?): Còn câu cá thì sao?
+釣り (つり): Câu cá.
+はいいの?: Dùng để hỏi xem có làm gì đó không.
+好きでしょ?: Anh thích mà, phải không?
+好き (すき): Thích.
+でしょ?: Đúng không? (cách nói nhẹ nhàng xác nhận một điều gì đó).
+今日もやりたいんじゃない? (きょうもやりたいんじゃない?): Hôm nay anh cũng muốn làm phải không?
+今日も (きょうも): Hôm nay cũng.
+やりたいんじゃない?: Anh có muốn làm không? (dạng nghi vấn nhẹ nhàng).
+Ý nghĩa: Người nói (女2) hỏi người kia về việc có muốn đi câu cá hay không, vì biết anh ta thích câu cá.
+
+13. 男: うーん、初心者向けって言ってたから今日はしなくていいかな。
+(Uhm, vì nó là lớp cho người mới bắt đầu, nên hôm nay tôi nghĩ là không cần làm đâu.)
+
+うーん: Thể hiện sự do dự, suy nghĩ.
+初心者向けって言ってたから (しょしんしゃむけっていってたから): Vì người ta nói là dành cho người mới bắt đầu.
+初心者向け (しょしんしゃむけ): Dành cho người mới bắt đầu.
+って言ってた: Họ đã nói rằng.
+今日はしなくていいかな (きょうはしなくていいかな): Hôm nay tôi nghĩ là không cần làm.
+今日は (きょうは): Hôm nay.
+しなくていいかな: Dùng để nói về điều không cần thiết phải làm.
+Ý nghĩa: Người nói (男) giải thích rằng vì lớp học câu cá hôm nay dành cho người mới bắt đầu, nên anh ta không tham gia.
+

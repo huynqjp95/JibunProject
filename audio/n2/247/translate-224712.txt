@@ -1,0 +1,155 @@
+Bảng dịch chi tiết---------------
+Câu 1:
+男: おはようございます、森田さん。
+おはようございます: Chào buổi sáng (cách nói lịch sự).
+森田さん (もりたさん): Cô/anh Morita (họ người Nhật, dùng với さん thể hiện sự lịch sự).
+📌 Ý nghĩa:
+"Chào buổi sáng, Morita-san."
+
+Câu 2:
+今日は一部の商品に値引シールを付ける作業をやってくれることになってたね。
+今日は (きょうは): Hôm nay.
+一部 (いちぶ): Một phần, một số.
+商品 (しょうひん): Sản phẩm, hàng hóa.
+値引シール (ねびきシール): Tem giảm giá (値引き (ねびき, giảm giá) + シール (tem, nhãn dán)).
+付ける (つける): Gắn, dán, đính vào.
+作業 (さぎょう): Công việc, thao tác.
+やってくれる: Làm giúp.
+やる (làm) → やってくれる (làm giúp cho người nói).
+ことになってた: Đã được sắp xếp, đã định sẵn.
+ことになる: Quyết định (bởi một yếu tố khách quan).
+ことになっていた: Đã có kế hoạch trước đó.
+📌 Ý nghĩa:
+"Hôm nay, cô sẽ làm công việc dán tem giảm giá lên một số sản phẩm, đúng không?"
+
+Câu 3:
+女: あ、はい。準備してます。
+あ、はい: À, vâng.
+準備してます (じゅんびしてます): Đang chuẩn bị.
+準備する (chuẩn bị) → してます (dạng rút gọn của しています, thể hiện hành động đang diễn ra).
+📌 Ý nghĩa:
+"À, vâng. Tôi đang chuẩn bị."
+
+Câu 4:
+男: えっと、忙しい時に悪いんだけど、倉庫に行って南コーヒーの豆、何袋あるか数えてきてくれる?
+えっと: Ừm... (dùng khi đang suy nghĩ).
+忙しい時に悪いんだけど: Xin lỗi vì làm phiền khi cô đang bận...
+忙しい (いそがしい): Bận rộn.
+時に (ときに): Khi, lúc.
+悪い (わるい): Xấu, không tốt.
+んだけど: Cách nói nhẹ nhàng khi nhờ vả.
+📌 Ngữ pháp quan trọng:
+
+〜てくれる? → Nhờ vả một cách thân thiện.
+
+倉庫に行って (そうこにいって): Đi đến nhà kho.
+
+倉庫 (そうこ): Kho hàng.
+行って: Dạng て của 行く (đi).
+南コーヒーの豆 (みなみコーヒーのまめ): Hạt cà phê của hãng "Minami Coffee".
+
+豆 (まめ): Hạt (ở đây là hạt cà phê).
+何袋あるか数えてきてくれる?: Đếm xem có bao nhiêu túi rồi báo lại giúp tôi nhé?
+
+何袋 (なんふくろ): Mấy túi?
+あるか: Có bao nhiêu (dạng câu gián tiếp).
+数えてきてくれる?: Đếm rồi quay lại báo giúp tôi nhé?
+数える (かぞえる): Đếm.
+〜てくれる: Làm giúp (thể hiện nhờ vả nhẹ nhàng).
+📌 Ý nghĩa:
+"Ừm... Tôi xin lỗi vì nhờ cô trong lúc bận, nhưng cô có thể đi kiểm tra xem có bao nhiêu túi hạt cà phê của Minami Coffee trong kho không?"
+
+Câu 5:
+数が少なかったら今日中に注文しないといけないんだ。
+数 (かず): Số lượng.
+少なかったら (すくなかったら): Nếu ít.
+少ない (すくない, ít) → 少なかったら (Nếu ít thì...).
+今日中に (きょうじゅうに): Trong hôm nay.
+注文しないといけない (ちゅうもんしないといけない): Phải đặt hàng.
+注文する (ちゅうもんする): Đặt hàng.
+〜ないといけない: Phải làm gì đó.
+んだ: Nhấn mạnh lý do, giải thích.
+📌 Ý nghĩa:
+"Nếu số lượng ít thì tôi phải đặt hàng trong hôm nay."
+
+Câu 6:
+女: あ、わかりました。急ぎですか?
+あ、わかりました: À, tôi hiểu rồi.
+急ぎですか? (いそぎですか?): Việc này có gấp không?
+急ぎ (いそぎ): Việc gấp.
+〜ですか?: Câu hỏi lịch sự.
+📌 Ý nghĩa:
+"À, tôi hiểu rồi. Việc này có gấp không?"
+
+Câu 7:
+男: あー、そのシールを貼る作業が終わってからでいいから。
+あー: À...
+そのシールを貼る作業 (そのシールをはるさぎょう): Công việc dán tem đó.
+が終わってから (がおわってから): Sau khi xong.
+でいいから: Là được rồi (không cần gấp).
+📌 Ý nghĩa:
+"À... Sau khi dán tem xong rồi làm cũng được."
+
+Câu 8:
+袋の数を数えたらメモを私の机の上に置いといて。
+袋の数 (ふくろのかず): Số lượng túi.
+数えたら (かぞえたら): Nếu đếm xong.
+メモを: Ghi chú.
+私の机の上 (わたしのつくえのうえ): Trên bàn của tôi.
+置いといて (おいといて): Đặt xuống (thể thân mật của 置いておいて).
+📌 Ý nghĩa:
+"Sau khi đếm số túi xong thì hãy đặt ghi chú lên bàn của tôi nhé."
+Câu 9:
+お客さんがレジにたくさん並んでるから、
+📌 Phân tích từ vựng & ngữ pháp:
+
+お客さん (おきゃくさん): Khách hàng.
+レジ: Quầy thu ngân (cash register).
+たくさん: Nhiều.
+並んでる (ならんでる): Đang xếp hàng.
+Động từ gốc: 並ぶ (ならぶ) = Xếp hàng.
+並んでいる (thể ている) → Dạng rút gọn thành 並んでる, diễn tả hành động đang diễn ra.
+から: Vì, do (chỉ nguyên nhân, lý do).
+📌 Ý nghĩa:
+"Vì khách hàng đang xếp hàng dài ở quầy thu ngân,"
+
+Câu 10:
+私もすぐレジを手伝わなきゃいけなくて。
+📌 Phân tích từ vựng & ngữ pháp:
+
+私も (わたしも): Tôi cũng.
+すぐ: Ngay lập tức.
+レジを手伝わなきゃいけなくて。
+手伝う (てつだう): Giúp đỡ.
+手伝わなきゃいけない = Phải giúp.
+〜なきゃいけない là cách nói rút gọn của 〜なければいけない, diễn tả nghĩa vụ phải làm gì đó.
+手伝わなきゃいけなくて: Kết thúc bằng て cho thấy câu chưa hoàn chỉnh, để lại ý nghĩa mở (vì lý do này mà...).
+📌 Ý nghĩa:
+"Tôi cũng phải ra giúp thu ngân ngay (nên...)."
+
+Câu 11:
+値引シールを付けた商品をレジの横の棚に並べるのは明日の開店前にみんなですればいいから。
+📌 Phân tích từ vựng & ngữ pháp:
+
+値引シール (ねびきシール): Tem giảm giá.
+値引 (ねびき): Giảm giá.
+シール: Tem, nhãn dán.
+を付けた商品 (をつけたしょうひん): Sản phẩm đã được dán tem giảm giá.
+付ける (つける): Gắn, dán.
+付けた: Thể quá khứ, bổ nghĩa cho 商品 (sản phẩm).
+レジの横の棚 (れじのよこのたな): Kệ bên cạnh quầy thu ngân.
+レジの横 (よこ): Bên cạnh quầy thu ngân.
+棚 (たな): Kệ.
+に並べる (にならべる): Xếp lên (kệ).
+並べる (ならべる): Sắp xếp, xếp hàng.
+のは明日の開店前にみんなですればいい
+のは: Biến một mệnh đề thành danh từ. Ở đây, nó biến cả cụm "Xếp sản phẩm lên kệ" thành chủ đề của câu.
+明日の開店前 (あしたのかいてんまえ): Trước khi mở cửa ngày mai.
+明日 (あした): Ngày mai.
+開店 (かいてん): Mở cửa (cửa hàng).
+前 (まえ): Trước.
+みんなですればいい: Để mọi người cùng làm là được.
+みんなで: Mọi người cùng nhau.
+すればいい: Làm như vậy là được.
+📌 Ý nghĩa:
+"Việc xếp các sản phẩm đã dán tem giảm giá lên kệ bên cạnh quầy thu ngân thì để mai trước khi mở cửa mọi người cùng làm là được."

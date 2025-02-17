@@ -1,0 +1,228 @@
+Phân tích câu 
+Câu 1:
+女: 引っ越し会社に引越しの見積もりを出してもらったけど予算よりかなり高かったよ。
+👉 Tớ đã nhờ công ty chuyển nhà đưa ra báo giá, nhưng mà nó cao hơn ngân sách khá nhiều.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+引っ越し会社 (ひっこしがいしゃ): Công ty chuyển nhà.
+に: Trợ từ chỉ đối tượng hành động hướng đến (nhờ công ty).
+引越し (ひっこし): Việc chuyển nhà.
+の見積もり (のみつもり):
+見積もり (みつもり): Báo giá, ước tính chi phí.
+の: Trợ từ chỉ danh từ bổ nghĩa.
+を出してもらった:
+出す (だす): Đưa ra.
+てもらう: Nhờ ai đó làm gì đó.
+→ Nhờ công ty chuyển nhà đưa ra báo giá.
+けど: Nhưng (dùng trong hội thoại).
+予算 (よさん): Ngân sách.
+より: So với...
+かなり: Khá là, đáng kể.
+高かった (たかかった): Dạng quá khứ của 高い (たかい) (cao, đắt).
+よ: Nhấn mạnh.
+Câu 2:
+今の時期はどこの会社も高いんだね。
+👉 Thời điểm này công ty nào cũng đắt nhỉ.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+今の時期 (いまのじき): Thời điểm hiện tại.
+は: Trợ từ chủ đề.
+どこの会社も (どこのかいしゃも):
+どこ (どこ): Ở đâu.
+の会社 (のかいしゃ): Công ty nào.
+も: Cũng (bất kỳ công ty nào cũng vậy).
+高い (たかい): Cao, đắt.
+んだね:
+んだ: Dạng ngữ pháp dùng để giải thích hoặc thể hiện nhận xét.
+ね: Dùng để xác nhận sự đồng tình từ người nghe.
+Câu 3:
+荷物の量と移動距離で料金を計算するから荷物を減らせば安くなるって。
+👉 Phí vận chuyển được tính dựa trên lượng hành lý và quãng đường di chuyển, nên nếu giảm hành lý thì sẽ rẻ hơn đấy.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+荷物 (にもつ): Hành lý, đồ đạc.
+の量 (のりょう):
+量 (りょう): Số lượng.
+の: Trợ từ liên kết.
+→ Lượng hành lý.
+と: Và (nối hai danh từ).
+移動距離 (いどうきょり):
+移動 (いどう): Di chuyển.
+距離 (きょり): Khoảng cách.
+→ Khoảng cách di chuyển.
+で: Trợ từ chỉ phương thức, cách thức (dựa trên).
+料金 (りょうきん): Phí.
+を計算する (をけいさんする):
+計算する (けいさんする): Tính toán.
+を: Trợ từ chỉ tân ngữ.
+から: Vì, do đó.
+荷物を減らせば (にもつをへらせば):
+減らす (へらす): Giảm bớt (tha động từ).
+～ば: Cấu trúc điều kiện giả định (nếu... thì).
+→ Nếu giảm bớt hành lý.
+安くなる (やすくなる):
+安い (やすい): Rẻ.
+なる: Trở nên, trở thành.
+→ Trở nên rẻ hơn.
+って: Dạng rút gọn của と言っていた (nói là, nghe nói là).
+Câu 4:
+男: そう、んー。大きい荷物を減らそうか。
+👉 Đúng vậy. Hmm... Hay là giảm bớt đồ lớn đi nhỉ?
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+そう: Đúng vậy.
+んー: Âm đệm, thể hiện sự suy nghĩ.
+大きい (おおきい): Lớn.
+荷物 (にもつ): Hành lý, đồ đạc.
+を: Trợ từ tân ngữ.
+減らそうか (へらそうか):
+減らす (へらす): Giảm bớt.
+～そうか: Dạng rủ rê (hay là làm ... nhé?).
+→ Hay là giảm bớt đồ lớn đi nhỉ?
+Câu 5:
+えーっと、大きいものって言ったらソファー、冷蔵庫、本棚だね。
+👉 Ừm... Nếu nói đến đồ lớn thì có ghế sofa, tủ lạnh, giá sách nhỉ.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+えーっと: Từ đệm thể hiện sự suy nghĩ.
+大きいもの (おおきいもの): Đồ lớn.
+って: Dùng để nhấn mạnh hoặc làm chủ đề trong câu hội thoại.
+言ったら (いったら):
+言う (いう): Nói.
+たら: Cấu trúc giả định (nếu nói về...).
+ソファー (そふぁー): Ghế sofa.
+冷蔵庫 (れいぞうこ): Tủ lạnh.
+本棚 (ほんだな): Giá sách.
+だね: Nhấn mạnh thông tin và chờ sự đồng tình từ người nghe.
+Câu 6:
+女: 本棚は分解できるよ。
+👉 Giá sách có thể tháo rời được đấy.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+本棚 (ほんだな): Giá sách.
+は: Trợ từ chủ đề.
+分解できる (ぶんかいできる):
+分解する (ぶんかいする): Tháo rời, lắp ráp.
+できる: Có thể làm được.
+→ Có thể tháo rời được.
+よ: Nhấn mạnh thông tin.
+Phân tích câu 1 đến câu 6
+Câu 1:
+女: 引っ越し会社に引越しの見積もりを出してもらったけど予算よりかなり高かったよ。
+👉 Tớ đã nhờ công ty chuyển nhà đưa ra báo giá, nhưng mà nó cao hơn ngân sách khá nhiều.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+引っ越し会社 (ひっこしがいしゃ): Công ty chuyển nhà.
+に: Trợ từ chỉ đối tượng hành động hướng đến (nhờ công ty).
+引越し (ひっこし): Việc chuyển nhà.
+の見積もり (のみつもり):
+見積もり (みつもり): Báo giá, ước tính chi phí.
+の: Trợ từ chỉ danh từ bổ nghĩa.
+を出してもらった:
+出す (だす): Đưa ra.
+てもらう: Nhờ ai đó làm gì đó.
+→ Nhờ công ty chuyển nhà đưa ra báo giá.
+けど: Nhưng (dùng trong hội thoại).
+予算 (よさん): Ngân sách.
+より: So với...
+かなり: Khá là, đáng kể.
+高かった (たかかった): Dạng quá khứ của 高い (たかい) (cao, đắt).
+よ: Nhấn mạnh.
+Câu 2:
+今の時期はどこの会社も高いんだね。
+👉 Thời điểm này công ty nào cũng đắt nhỉ.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+今の時期 (いまのじき): Thời điểm hiện tại.
+は: Trợ từ chủ đề.
+どこの会社も (どこのかいしゃも):
+どこ (どこ): Ở đâu.
+の会社 (のかいしゃ): Công ty nào.
+も: Cũng (bất kỳ công ty nào cũng vậy).
+高い (たかい): Cao, đắt.
+んだね:
+んだ: Dạng ngữ pháp dùng để giải thích hoặc thể hiện nhận xét.
+ね: Dùng để xác nhận sự đồng tình từ người nghe.
+Câu 3:
+荷物の量と移動距離で料金を計算するから荷物を減らせば安くなるって。
+👉 Phí vận chuyển được tính dựa trên lượng hành lý và quãng đường di chuyển, nên nếu giảm hành lý thì sẽ rẻ hơn đấy.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+荷物 (にもつ): Hành lý, đồ đạc.
+の量 (のりょう):
+量 (りょう): Số lượng.
+の: Trợ từ liên kết.
+→ Lượng hành lý.
+と: Và (nối hai danh từ).
+移動距離 (いどうきょり):
+移動 (いどう): Di chuyển.
+距離 (きょり): Khoảng cách.
+→ Khoảng cách di chuyển.
+で: Trợ từ chỉ phương thức, cách thức (dựa trên).
+料金 (りょうきん): Phí.
+を計算する (をけいさんする):
+計算する (けいさんする): Tính toán.
+を: Trợ từ chỉ tân ngữ.
+から: Vì, do đó.
+荷物を減らせば (にもつをへらせば):
+減らす (へらす): Giảm bớt (tha động từ).
+～ば: Cấu trúc điều kiện giả định (nếu... thì).
+→ Nếu giảm bớt hành lý.
+安くなる (やすくなる):
+安い (やすい): Rẻ.
+なる: Trở nên, trở thành.
+→ Trở nên rẻ hơn.
+って: Dạng rút gọn của と言っていた (nói là, nghe nói là).
+Câu 4:
+男: そう、んー。大きい荷物を減らそうか。
+👉 Đúng vậy. Hmm... Hay là giảm bớt đồ lớn đi nhỉ?
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+そう: Đúng vậy.
+んー: Âm đệm, thể hiện sự suy nghĩ.
+大きい (おおきい): Lớn.
+荷物 (にもつ): Hành lý, đồ đạc.
+を: Trợ từ tân ngữ.
+減らそうか (へらそうか):
+減らす (へらす): Giảm bớt.
+～そうか: Dạng rủ rê (hay là làm ... nhé?).
+→ Hay là giảm bớt đồ lớn đi nhỉ?
+Câu 5:
+えーっと、大きいものって言ったらソファー、冷蔵庫、本棚だね。
+👉 Ừm... Nếu nói đến đồ lớn thì có ghế sofa, tủ lạnh, giá sách nhỉ.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+えーっと: Từ đệm thể hiện sự suy nghĩ.
+大きいもの (おおきいもの): Đồ lớn.
+って: Dùng để nhấn mạnh hoặc làm chủ đề trong câu hội thoại.
+言ったら (いったら):
+言う (いう): Nói.
+たら: Cấu trúc giả định (nếu nói về...).
+ソファー (そふぁー): Ghế sofa.
+冷蔵庫 (れいぞうこ): Tủ lạnh.
+本棚 (ほんだな): Giá sách.
+だね: Nhấn mạnh thông tin và chờ sự đồng tình từ người nghe.
+Câu 6:
+女: 本棚は分解できるよ。
+👉 Giá sách có thể tháo rời được đấy.
+
+📌 Phân tích ngữ pháp và từ vựng:
+
+本棚 (ほんだな): Giá sách.
+は: Trợ từ chủ đề.
+分解できる (ぶんかいできる):
+分解する (ぶんかいする): Tháo rời, lắp ráp.
+できる: Có thể làm được.
+→ Có thể tháo rời được.
+よ: Nhấn mạnh thông tin.
